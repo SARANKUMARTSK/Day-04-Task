@@ -1,5 +1,5 @@
 
-const myData={ 
+const myData={
     "basics": {
     "fname": "SARAN",
     "mname": "KUMAR",
@@ -30,5 +30,6 @@ const myData={
     "Job Role": "Senior Supervisor in Breeder Operations",
     "Year Of Experiance": "5 Years",
 }
-    };
+
+    }
 console.log(myData);
